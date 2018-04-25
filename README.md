@@ -1,0 +1,2 @@
+# MyGitStation
+git blog
